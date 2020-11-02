@@ -1,0 +1,15 @@
+APAXPageControl/0.1.0
+ASAnyCurlController/0.1
+CDDevUtility/0.1.0
+ELProgressHUD/0.1.2/0.1.3/0.1.4/0.1.5/0.1.7/0.1.8/0.1.9
+FinalPerson/0.0.2/0.0.4
+IttmsToolsFramework/0.1.3
+KYBannerView/0.1.0/0.1.1/0.1.2/0.2.0/0.2.1/0.3.1
+MLTontiatorView/1.0.0/1.1.0/1.1.1/1.1.2
+OctoKit.swift/0.5.0/0.5.2/0.6.0/0.6.1/0.6.2/0.6.3/0.7.0/0.7.1/0.7.2/0.7.3/0.7.4/0.8.0
+PoilabsPasabahceNavigation/1.0.0/1.0.1/1.0.2/1.0.3/1.0.5/1.0.6
+RLE/1/2
+TrueIDFrameworkPublic/0.1.9/1.0.0/1.0.1/1.0.2/1.1.0/1.2.0/1.3.0
+YBPlayerSlider/1.0.0
+YJLibrary/0.1.0/0.6.0/1.1.0
+gitCocoa/0.1.4

@@ -1,0 +1,17 @@
+ALAlertViewController/0.0.3
+FFBasic/0.1.0
+FishingNetworkFramework/1.0.0
+Frequent/1.0.0/1.0.1
+HMACSigner/0.1.0/1.0.0
+MSAlert/0.1.0/0.1.2/0.1.3
+MWPhotoBrowser_angels2it/2.1.2/2.1.3
+OTGanttChartKit/1.1/1.2/1.3
+OdinNetworking/0.0.4
+OffcnLiveSDKiOS/1.0.0.1000/2.5.2.1/2.5.3.2/2.5.3.3/2.5.4.1/2.5.4.2/2.5.4.5/2.5.4.6/2.5.4.8/2.5.5.0/2.5.6.2/2.5.7.1/2.5.7.2/2.5.7.3
+RGDynamicOnboard/0.1
+SKLocationPermissions/0.0.1/0.0.2/0.0.3/0.0.4/0.0.6
+SimpleNotification/0.5
+WCDB.swift_ct/1.0.6/1.0.6.1/1.0.6.2/1.0.6.3
+WQCharts/1.0.0/1.1.0/1.1.1/1.2.1
+WQModelDescription/1.0.0/2.0.0
+XLMailBoxContainer/1.0.0

@@ -1,0 +1,16 @@
+APLExpandableCollectionView/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6
+BeaconOSKit/0.1
+CLProgressFPD/1.0.0
+EELicense/0.1.0
+Folio/1.0.0-beta.1/1.0.0-beta.2
+Follower/0.1
+GLFrameRate/0.1.0
+IGZLocation/1.0.2/1.0.3/1.0.4/1.0.5/1.1.0
+IKCore/1.0/1.1/1.2/1.3/1.4
+IVGResources/1.0.0
+PXQSpinner/0.1.1/0.2/0.3
+SAWaveToast/0.1.0/0.2.0
+SwiftOFX/0.1.1
+VRCodeView/0.2.0
+ZPayManager/0.1.1
+serverURL/0.0.1/0.0.2
